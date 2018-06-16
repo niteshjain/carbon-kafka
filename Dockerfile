@@ -1,4 +1,4 @@
 FROM ubuntu:16.04
-ADD tcpserver /opt/server
+ADD server /opt/server
 EXPOSE 9000/tcp
 CMD /opt/server
