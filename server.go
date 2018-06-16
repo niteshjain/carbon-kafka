@@ -15,7 +15,7 @@ import (
 
 const (
 	SERVER_PORT      = "9000"
-	SERVER_HOST      = "0.0.0.0"
+	SERVER_HOST      = "127.0.0.1"
 	SERVER_TYPE      = "tcp"
 	TIMEOUT_DURATION = 5 * time.Second
 	KAFKA_BROKER     = "broker-1:9092,broker-2:9092"
