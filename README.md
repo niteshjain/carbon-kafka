@@ -10,5 +10,5 @@ Recieve plain text protocol graphite metrics and push to kafka.
 - [ ] Signal handling to flush in memory messages 
 - [ ] Support pickle protocol 
 - [ ] Metrics 
-- [ ] Allow configuration via files 
+- [ ] Allow configuration via file
  
